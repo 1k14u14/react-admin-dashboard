@@ -5,6 +5,12 @@ This project demonstrates advanced UI features including dark mode, mobile respo
 
 ---
 
+## 🌍 Live Demo
+
+https://1k14u14.github.io/react-admin-dashboard/
+
+---
+
 ## ✨ Features
 
 - 🌙 Dark mode toggle (manual theme control)
@@ -71,13 +77,13 @@ Run the development server:
 npm run dev
 ```
 
+---
+
 ## 📸 Screenshots
 
 <img width="1899" height="910" alt="Screenshot 2026-02-21 225953" src="https://github.com/user-attachments/assets/998429fe-a90a-493f-958c-9002130db9d4" />
 
-## 🌍 Live Demo
-
-https://1k14u14.github.io/react-admin-dashboard/
+---
 
 ## 📈 Future Improvements
 
@@ -90,8 +96,9 @@ https://1k14u14.github.io/react-admin-dashboard/
 - Chart enhancements
 
 - CSV export
-  
 
+---
+  
 ## 👨‍💻 Author
 
 Built by Zikri Aulia
