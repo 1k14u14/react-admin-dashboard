@@ -1,16 +1,86 @@
-# React + Vite
+# 🚀 Modern React Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern admin dashboard built with React, Vite, and Tailwind CSS v4.  
+This project demonstrates advanced UI features including dark mode, mobile responsiveness, pagination, filtering, and sorting.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 🌙 Dark mode toggle (manual theme control)
+- 📱 Fully responsive mobile sidebar
+- 🔍 Search & status filtering
+- 📄 Pagination system
+- 🔃 Column sorting
+- 📊 Dynamic transaction table (20 sample records)
+- 🎨 Clean design system using CSS variables
+- ⚡ Built with Vite for fast performance
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- Tailwind CSS v4
+- Lucide Icons
+- JavaScript (ES6+)
+
+---
+
+## 📂 Project Structure
+
+src/
+│
+├── components/
+│ ├── Sidebar.jsx
+│ ├── Navbar.jsx
+│ ├── TransactionTable.jsx
+│
+├── data/
+│ └── transactionData.js
+│
+├── layout/
+│ └── DashboardLayout.jsx
+│
+├── App.jsx
+└── index.css
+
+---
+
+## 🚀 Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+
+Navigate to the project folder:
+cd YOUR-REPO-NAME
+
+Install dependencies:
+npm install
+
+Run the development server:
+npm run dev
+
+📸 Screenshots
+
+dev<img width="1899" height="910" alt="Screenshot 2026-02-21 225953" src="https://github.com/user-attachments/assets/998429fe-a90a-493f-958c-9002130db9d4" />
+
+📈 Future Improvements
+
+- API integration
+
+- Authentication system
+
+- Role-based dashboards
+
+- Chart enhancements
+
+- CSV export
+
+👨‍💻 Author
+
+Built by Zikri Aulia
+
