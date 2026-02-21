@@ -54,15 +54,22 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+```
 
 Navigate to the project folder:
+```bash
 cd YOUR-REPO-NAME
+```
 
 Install dependencies:
+```bash
 npm install
+```
 
 Run the development server:
+```bash
 npm run dev
+```
 
 📸 Screenshots
 
@@ -79,6 +86,7 @@ dev<img width="1899" height="910" alt="Screenshot 2026-02-21 225953" src="https:
 - Chart enhancements
 
 - CSV export
+  
 
 👨‍💻 Author
 
