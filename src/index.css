@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* Force class-based dark mode */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Design tokens */
+:root {
+  --bg: #f8fafc;
+  --surface: #ffffff;
+  --text: #0f172a;
+  --muted: #64748b;
+  --primary: #6366f1;
+}
+
+.dark {
+  --bg: #0f172a;
+  --surface: #1e293b;
+  --text: #f1f5f9;
+  --muted: #94a3b8;
+  --primary: #818cf8;
+}
