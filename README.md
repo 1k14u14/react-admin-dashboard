@@ -29,7 +29,7 @@ This project demonstrates advanced UI features including dark mode, mobile respo
 ---
 
 ## 📂 Project Structure
-
+```bash
 src/
 │
 ├── components/
@@ -45,7 +45,7 @@ src/
 │
 ├── App.jsx
 └── index.css
-
+```
 ---
 
 ## 🚀 Installation & Setup
@@ -73,7 +73,11 @@ npm run dev
 
 📸 Screenshots
 
-dev<img width="1899" height="910" alt="Screenshot 2026-02-21 225953" src="https://github.com/user-attachments/assets/998429fe-a90a-493f-958c-9002130db9d4" />
+<img width="1899" height="910" alt="Screenshot 2026-02-21 225953" src="https://github.com/user-attachments/assets/998429fe-a90a-493f-958c-9002130db9d4" />
+
+## 🌍 Live Demo
+
+https://1k14u14.github.io/react-admin-dashboard/
 
 📈 Future Improvements
 
