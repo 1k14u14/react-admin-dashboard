@@ -71,7 +71,7 @@ Run the development server:
 npm run dev
 ```
 
-📸 Screenshots
+## 📸 Screenshots
 
 <img width="1899" height="910" alt="Screenshot 2026-02-21 225953" src="https://github.com/user-attachments/assets/998429fe-a90a-493f-958c-9002130db9d4" />
 
@@ -79,7 +79,7 @@ npm run dev
 
 https://1k14u14.github.io/react-admin-dashboard/
 
-📈 Future Improvements
+## 📈 Future Improvements
 
 - API integration
 
@@ -92,7 +92,7 @@ https://1k14u14.github.io/react-admin-dashboard/
 - CSV export
   
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Built by Zikri Aulia
 
